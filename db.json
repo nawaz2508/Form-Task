@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+      "first_name": "Nawaz",
+      "last_name": "Khan",
+      "email": "kmnawaz25@gmail.com",
+      "gender": "male",
+      "age": "28",
+      "tenth_score": "63",
+      "twelth_score": "62",
+      "preferred_branch": "science",
+      "id": 13
+    }
+  ]
+}
